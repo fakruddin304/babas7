@@ -8,4 +8,13 @@ for
 loop
 baddling
 somu
+un
+git 
+git branch
+ git add .
+ git add filename
+ git status
+ git diff
+  git commit -am "content"
+  git push -u origin master
 
