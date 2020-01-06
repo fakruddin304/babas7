@@ -8,13 +8,18 @@ for
 loop
 baddling
 somu
-un
+sunder 
+right
+key
+clone
 git 
 git branch
- git add .
- git add filename
- git status
- git diff
-  git commit -am "content"
-  git push -u origin master
+git clone https://
+git add .
+git add filename
+git status
+git diff
+git commit -am "commandsgit"
+git push -u orgin master(default)
+
 
